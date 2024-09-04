@@ -13,8 +13,8 @@ Four related datasets are described in this document, as well as a fifth that de
 Data Access and Archival:
 1. The dataset for the long sediment cores (>20 cm) has been archived at National Centers for Environmental Information (NCEI) and can be accessed here: https://data.noaa.gov/onestop/collections/details/75851d98-0141-4e39-9f51-7d52f6eb90ea
 2. The dataset for the short sediment cores (~15 cm) has been archived at National Centers for Environmental Information (NCEI) and can be accessed here: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0291012
-3. Modeled temperature values for 2014-2016 in Coos Bay estuary, averaged over several different time and space intervals (e.g., monthly, weekly, at specific locations, etc.). See the dataset description for specifics of these model outputs. These are in this repository.  
-4. Modeled sediment variables for 2014-2016 in Coos Bay estuary, including suspended sediment concentrations and bottom stress, averaged over several different time and space intervals (e.g., monthly, weekly, at specific locations, etc.). See the dataset description for specifics of these model outputs. These are in this repository.
+3. Modeled temperature values for 2014-2016 in Coos Bay estuary, averaged over several different time and space intervals (e.g., monthly, weekly, at specific locations, etc.). See the dataset description for specifics of these model outputs. These are in this repository in the Temp and Salinity Model folder.  
+4. Modeled sediment variables for 2014-2016 in Coos Bay estuary, including suspended sediment concentrations and bottom stress, averaged over several different time and space intervals (e.g., monthly, weekly, at specific locations, etc.). See the dataset description for specifics of these model outputs. These are in this repository in the Sediment Model folder.
 5. FVCOM model setup, code, and parameter files are in this repository. 
 
 See the ReadMe files in each folder for more information on each product archived here. 
